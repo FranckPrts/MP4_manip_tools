@@ -1,1 +1,1 @@
-A repo to store code using ffmpeg to (shell) script MP4 editing
+A repo to store code using ffmpeg to script MP4 editing in shell.
